@@ -64,6 +64,10 @@ systemctl status qbittorrent-nox@用户名.service
 journalctl -u qbittorrent-nox@用户名.service -f
 ```
 
+## 致谢
+
+感谢 [@guowanghushifu](https://github.com/guowanghushifu) 提供的 qBittorrent 二进制文件，本脚本中的 qBittorrent 5.0.4 二进制文件来源于其 [Seedbox-Components](https://github.com/guowanghushifu/Seedbox-Components) 仓库。
+
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request 来改进这个脚本。
