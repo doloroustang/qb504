@@ -4,6 +4,8 @@
 
 这是一个用于自动升级 qBittorrent 到 5.0.4 版本的 Bash 脚本。该脚本支持 Debian 10+ 和 Ubuntu 20.04+ 系统，能够自动检测现有安装、下载新版本并配置 systemd 服务。
 
+**适用场景**: 本脚本专门适用于通过 [jerry048/Seedbox-Components](https://github.com/jerry048/Seedbox-Components) 脚本安装的 qBittorrent 环境，能够无缝升级到 qBittorrent 5.0.4 版本。
+
 ## 功能特性
 
 - ✅ 自动检测系统兼容性（Debian 10+ / Ubuntu 20.04+）
